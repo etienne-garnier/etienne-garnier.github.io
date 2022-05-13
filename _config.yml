@@ -17,11 +17,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Etienne GARNIER's awesome tech Blog
+title: Etienne Garnier - Dev Full Stack
 email: etienne.garnier@yahoo.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  I'll try to share my learning on Full Stack Web Development.
-  I'm on the MERN learning path, and i'am also learning Python.
+  Blog centré sur le développement Web
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://etienne-garnier.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _EtienneGarnier
